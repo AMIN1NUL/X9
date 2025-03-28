@@ -1,0 +1,17 @@
+{"user_id": 1066744659, "plan": 1, "valid_until": "2025-03-28", "access_count": 0}
+{"user_id": 1066744659, "plan": 1, "valid_until": "2025-03-28", "access_count": 0}
+{"user_id": 1066744659, "plan": 1, "valid_until": "2026-03-27", "access_count": 0}
+{"user_id": 1066744659, "plan": 1, "valid_until": "2026-03-27", "access_count": 0}
+{"user_id": 8159441634, "plan": 1, "valid_until": "2026-02-23", "access_count": 0}
+{"user_id": 482756202, "plan": 1, "valid_until": "2026-03-27", "access_count": 0}
+{"user_id": 5885807354, "plan": 2, "valid_until": "2025-05-06", "access_count": 0}
+{"user_id": 1253267234, "plan": 2, "valid_until": "2025-06-25", "access_count": 0}
+{"user_id": 1583238165, "plan": 1, "valid_until": "2025-03-29", "access_count": 0}
+{"user_id": 1583238165, "plan": 1, "valid_until": "2025-03-29", "access_count": 0}
+{"user_id": 5885807354, "plan": 2, "valid_until": "2025-04-06", "access_count": 0}
+{"user_id": 1002026175994, "plan": 2, "valid_until": "2025-04-16", "access_count": 0}
+{"user_id": 6265999727, "plan": 2, "valid_until": "2025-06-25", "access_count": 0}
+{"user_id": 7237140464, "plan": 1, "valid_until": "2025-04-03", "access_count": 0}
+{"user_id": 7383077317, "plan": 1, "valid_until": "2052-08-12", "access_count": 0}
+{"user_id": 5772967673, "plan": 1, "valid_until": "2026-03-27", "access_count": 0}
+{"user_id": 7237140464, "plan": 1, "valid_until": "2025-04-03", "access_count": 0}
